@@ -80,7 +80,7 @@ const App = () => {
             </h2>
           </div>
         </div>
-        <div className="w-[70%] p-4 bg-white shadow-md min-h-[80vh] head2">
+        <div className="w-[70%] p-4 bg-white  min-h-[80vh] head2">
           {step === 1 && (
             <Step1
               formData={formData}
